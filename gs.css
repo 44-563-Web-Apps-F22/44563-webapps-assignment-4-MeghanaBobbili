@@ -90,3 +90,48 @@ th{
 tr:nth-child(even) {
     background-color: navajowhite;
   }
+h4.ALL:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.DIANA:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.DIAandMER:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.DIAandAP:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.APOLLO:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.MARS:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.MERCURY:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.name:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
+h4.JUPITER:hover{
+    text-shadow: 1px 1px 5px blueviolet;
+    box-shadow: 2px 2px 2px 2px cadetblue;
+    background-color: floralwhite;
+}
