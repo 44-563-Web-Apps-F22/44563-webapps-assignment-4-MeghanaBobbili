@@ -1,0 +1,69 @@
+p.speech{
+    font-size: medium;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: 'Times New Roman';
+}
+p1.direction{
+            color:black;
+            background-color:cornsilk;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: small;
+            font: Serif;
+          }
+p.song{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-indent: 0;
+    padding-left: 30%;
+    width: 25%;
+    font: Verdana;
+}
+.MERCURY{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkmagenta;
+    font: Times;
+}
+.DIANA{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+    font: Times;
+}
+.APOLLO{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+    font: Times;
+}
+.JUPITER{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightcoral;
+    font: Times;
+}
+.direction:hover{
+    background-color: bisque;
+    color: red;
+    font: Times;
+}
+.DIAandMER{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font: Times;
+}
+.DIAandAP{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: slateblue;
+    font: Times;
+}
+.name{
+    font-size: larger;
+    font-weight: bold;
+    font-style: sans-serif;
+    color: saddlebrown;
+}
