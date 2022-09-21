@@ -44,6 +44,18 @@ p.song{
     color: lightcoral;
     font: 'Times New Roman';
 }
+.MARS{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+    font: 'Times New Roman';
+}
+.ALL{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: palevioletred;
+    font: 'Times New Roman';
+}
 .direction:hover{
     background-color: bisque;
     color: red;
