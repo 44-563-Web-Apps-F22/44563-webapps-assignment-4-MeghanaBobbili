@@ -1,15 +1,13 @@
 p.speech{
     font-size: medium;
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font: Georgia;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p1.direction{
             color:black;
             background-color:cornsilk;
             font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: small;
-            font: Serif;
           }
 p.song{
     font-size: small;
@@ -18,60 +16,50 @@ p.song{
     text-indent: 0;
     padding-left: 30%;
     width: 25%;
-    font: Verdana;
 }
 .MERCURY{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color:darkmagenta;
-    font: 'Times New Roman';
 }
 .DIANA{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: maroon;
-    font: 'Times New Roman';
 }
 .APOLLO{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: navy;
-    font: 'Times New Roman';
 }
 .JUPITER{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: lightcoral;
-    font: 'Times New Roman';
 }
 .MARS{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: chartreuse;
-    font: 'Times New Roman';
 }
 .ALL{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: palevioletred;
-    font: 'Times New Roman';
 }
 .direction:hover{
     background-color: bisque;
     color: red;
-    font: 'Times New Roman';
 }
 .DIAandMER{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: green;
-    font: 'Times New Roman';
 }
 .DIAandAP{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: slateblue;
-    font: 'Times New Roman';
 }
 .name{
     font-size: larger;
@@ -83,7 +71,6 @@ p.song{
     font-family: arial, sans-serif; 
     border-collapse: collapse;
     width: 50%;
-    font:sans-serif;
     margin-left: auto;
     margin-right: auto;
 }
