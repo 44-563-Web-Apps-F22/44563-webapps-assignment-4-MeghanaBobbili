@@ -94,44 +94,77 @@ h4.ALL:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.DIANA:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.DIAandMER:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.DIAandAP:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.APOLLO:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.MARS:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.MERCURY:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.name:hover{
     text-shadow: 1px 1px 5px blueviolet;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
+    border: 1px solid rebeccapurple;
 }
 h4.JUPITER:hover{
     text-shadow: 1px 1px 5px blueviolet;
+    border: 1px solid rebeccapurple;
     box-shadow: 2px 2px 2px 2px cadetblue;
     background-color: floralwhite;
 }
+.navbar {
+    width: 100%;
+    background-color:darkred;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background-color: crimson;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+  }
+  
